@@ -1,17 +1,9 @@
 # Logs e Auditoria Jus 9
 
-## Repertório
+Repertório: `logs-auditoria-jus9`
 
-`logs-auditoria-jus9`
+Status: novo/técnico
 
-## Status
+Mão na Massa Final — padrão visual, assinatura, governança e orientação obrigatória.
 
-novo
-
-## Fase
-
-Pré-Mão na Massa — Pacote Governança encerrado.
-
-## Finalidade
-
-Cria base inicial para logs, auditoria, trilhas de acesso, alterações sensíveis e governança de rastreabilidade.
+© Jus 9 Tecnologia Jurídica — software livre, autoria preservada.
